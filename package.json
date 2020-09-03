@@ -1,0 +1,22 @@
+{
+  "name": "cypress-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cy": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arildandreassen/cypress-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arildandreassen/cypress-playground/issues"
+  },
+  "homepage": "https://github.com/arildandreassen/cypress-playground#readme",
+  "dependencies": {
+    "cypress": "^5.1.0"
+  }
+}
