@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "cy": "npx cypress open"
+    "cy": "npx cypress open",
+    "cy:r": "npx cypress run --record --key c8cee222-531d-44c8-80f7-9e3f7060f589",
   },
   "repository": {
     "type": "git",
