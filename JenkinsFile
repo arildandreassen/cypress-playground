@@ -3,6 +3,7 @@ pipeline {
     // this image provides everything needed to run Cypress
     docker {
       image 'cypress/included:5.1.0'
+      args '-u 0:0'
     }
   }
 
